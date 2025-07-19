@@ -1,4 +1,5 @@
 🧮 Java Calculator
+
 This is a simple and functional calculator application built using Java. It performs basic arithmetic operations such as:
       
       1. Addition
